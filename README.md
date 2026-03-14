@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- FOTO -->
-<img src="URL_DA_SUA_FOTO" alt="Maria Clara" width="150" height="150" style="border-radius:50%; margin-bottom:15px;"/>
+<img src="C:\Users\clara\Downloads\WhatsApp Image 2026-03-12 at 11.43.51.jpeg" alt="Maria Clara" width="150" height="150" style="border-radius:50%; margin-bottom:15px;"/>
 
 <!-- NOME COM FONTE ESTILIZADA -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Maria+Clara+Ramos;Future+Developer" />
