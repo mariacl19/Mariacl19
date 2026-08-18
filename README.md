@@ -7,6 +7,11 @@
 <br><br>
 
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,python,js,git,github" alt="Tecnologias e ferramentas">
+
+</div>
 
 <!-- LINKEDIN -->
 
@@ -48,19 +53,7 @@ Atualmente estou desenvolvendo meus conhecimentos em programação e desenvolvim
 
 </div>
 
----
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mariacl19&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacl19&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais utilizadas">
-
-</div>
-
----
 
 ## 🐍 Minhas contribuições
 
