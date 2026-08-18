@@ -43,16 +43,6 @@ Atualmente estou desenvolvendo meus conhecimentos em programação e desenvolvim
 
 🎯 Meu objetivo é continuar evoluindo na área de tecnologia e me tornar uma **desenvolvedora**.
 
----
-
-## 💜 Tecnologias e Ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,python,js,git,github" alt="Tecnologias e ferramentas">
-
-</div>
-
 
 
 ## 🐍 Minhas contribuições
