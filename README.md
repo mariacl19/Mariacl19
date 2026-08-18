@@ -4,7 +4,9 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Maria+Clara+Ramos;Future+Developer" alt="Maria Clara Ramos - Future Developer"/>
+![Header](C:\Users\clara\Downloads\github-header-banner.png)
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=header&fontSize=20&fontColor=ffffff" width="100%"/>
 
