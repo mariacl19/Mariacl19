@@ -4,7 +4,7 @@
 
 <br>
 
-![Header](C:\Users\clara\Downloads\github-header-banner.png)
+<img src="./assets/github-header-banner.png" width="100%" alt="Banner">
 
 
 
