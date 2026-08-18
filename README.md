@@ -82,15 +82,7 @@ Atualmente estou desenvolvendo meus conhecimentos em programação e desenvolvim
 
 ---
 
-## 💜 Conecte-se comigo
 
-<div align="center">
-
-<a href="https://linkedin.com/in/maria-clara-ramos-da-costa">
-<img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-</div>
 
 ---
 
