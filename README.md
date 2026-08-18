@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/foto-perfil.jpeg" alt="Maria Clara" width="150" height="150" />
+
 
 <br>
 
