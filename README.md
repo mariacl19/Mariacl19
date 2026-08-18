@@ -6,11 +6,13 @@
 
 <br><br>
 
-<!-- FOTO DE PERFIL -->
 
-<img src="./foto-perfil.jpeg" width="150" height="150" alt="Maria Clara Ramos">
 
-<br><br>
+<!-- LINKEDIN -->
+
+<a href="https://www.linkedin.com/in/mariaclararamosdacosta?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-9370DB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Maria Clara Ramos"> </a>
+
+</div>
 
 <!-- NOME -->
 
