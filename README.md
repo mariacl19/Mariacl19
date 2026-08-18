@@ -14,11 +14,7 @@
 
 </div>
 
-<!-- NOME -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Maria+Clara+Ramos;Future+Developer" alt="Maria Clara Ramos - Future Developer">
-
-</div>
 
 ---
 
