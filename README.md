@@ -1,14 +1,20 @@
 <div align="center">
 
+<!-- BANNER -->
 
+<img src="./github-header-banner.png" width="100%" alt="Banner do perfil">
 
-<br>
+<br><br>
 
-<img src="./assets/github-header-banner.png" width="100%" alt="Banner">
+<!-- FOTO DE PERFIL -->
 
+<img src="./foto-perfil.jpeg" width="150" height="150" alt="Maria Clara Ramos">
 
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=header&fontSize=20&fontColor=ffffff" width="100%"/>
+<!-- NOME -->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Maria+Clara+Ramos;Future+Developer" alt="Maria Clara Ramos - Future Developer">
 
 </div>
 
@@ -40,7 +46,7 @@ Atualmente estou desenvolvendo meus conhecimentos em programação e desenvolvim
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,python,js,git,github" alt="Tecnologias"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,python,js,git,github" alt="Tecnologias e ferramentas">
 
 </div>
 
@@ -50,9 +56,9 @@ Atualmente estou desenvolvendo meus conhecimentos em programação e desenvolvim
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mariacl19&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mariacl19&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacl19&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais utilizadas"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacl19&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais utilizadas">
 
 </div>
 
@@ -62,7 +68,7 @@ Atualmente estou desenvolvendo meus conhecimentos em programação e desenvolvim
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Animação das contribuições"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Animação das contribuições">
 
 </div>
 
@@ -83,7 +89,7 @@ Atualmente estou desenvolvendo meus conhecimentos em programação e desenvolvim
 <div align="center">
 
 <a href="https://linkedin.com/in/maria-clara-ramos-da-costa">
-<img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 </div>
@@ -92,6 +98,6 @@ Atualmente estou desenvolvendo meus conhecimentos em programação e desenvolvim
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=100&section=footer" width="100%" alt="Footer">
 
 </div>
